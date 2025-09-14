@@ -18,6 +18,6 @@ A heartfelt thank you to the educators, content creators, and communities whose 
 - ApnaCollege
 
 ---
-> ⚠️ **Note:** This repository is a work in progress. Expect continuous updates and improvements as I advance through my Java learning journey.
+> **Note:** This repository is a work in progress. Expect continuous updates and improvements as I advance through my Java learning journey.
 
 ---
