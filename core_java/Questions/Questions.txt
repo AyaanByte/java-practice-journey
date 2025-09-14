@@ -1,0 +1,21 @@
+              ---Questions---
+
+  // PROBLEM 1->Write a java program to find whether a year enter by user is a leap year or not
+
+  // PROBLEM 2-> Write a java program game -> ROCK,PAPER,SCISSOR
+
+  // PROBLEM 3-> Quick Quiz: Write a program to print first n odd numbers Using a for loop  
+   
+  // PROBLEM 4-> Write a java program to calculate factorial in java(recursion must be)
+
+  // PROBLEM 5-> Write a program to print fibonacci series
+
+  //PROBLEM 6-> Write a function to find average of a set of a number passed as a number
+
+  //PROBLEM 7-> Write a function to calculate celsius to fahrenheit
+
+  //PROBLEM 8-> write a sum of natural number using iterative approach
+
+  //PROBLEM 9-> Overload the employee constructor to initial the salary to RS- 10,000;
+
+  //PROBLEM 10-> Create a class animal and derived another class dog from it
