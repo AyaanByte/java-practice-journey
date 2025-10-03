@@ -1,6 +1,6 @@
 # Java Practice Journey
 
-Welcome to my Java Practice Journey! This repository is a collection of all my personal practice exercises, challenges,  related to **Java** programming. As I continue to learn and improve my Java skills, I will be adding more advanced topics such as **Advanced Java**, frameworks, and much more.
+Welcome to my Java Practice Journey! This repository is a collection of all my personal practice exercises, challenges, related to **Java** programming. It’s a personal learning log - As I continue to learn and improve my Java skills, I will be adding more advanced topics such as **Advanced Java**, frameworks, and much more.
 
 ## Current Status
 
